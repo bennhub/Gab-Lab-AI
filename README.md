@@ -4,6 +4,8 @@ An AI-powered public speaking coach that provides real-time feedback on your spe
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+![App Screenshot](images/gablab.jpg)
+
 ## Features
 
 - 🎙️ Real-time speech recognition and analysis
